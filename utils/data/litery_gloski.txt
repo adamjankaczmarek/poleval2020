@@ -1,0 +1,43 @@
+ODWZOROWANIE LITERA-GŁOSKA
+==========================
+
+h h
+c-h h
+s-z sz
+r-z rz
+c-z cz
+c-Z cz
+s-Z sz
+
+d-ż drz
+d-ź dzi
+d-z dz
+
+Ź ź
+
+ł ll
+ó u
+ć ci
+ż rz
+ź zi
+ń ni
+ś si
+
+
+-dz-i -dzi-i
+-z-i -zi-i
+-s-i -si-i
+-c-i -ci-i
+-n-i -ni-i
+-k-i -ki-i
+-g-i -gi-i
+
+ę en
+ą on
+
+Z z
+S s
+Ż rz
+
+
+

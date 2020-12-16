@@ -1,0 +1,262 @@
+#ii_ i_
+
+ch h
+enia eńja
+onia ońja
+inia ińja
+eniu eńju
+
+tt_ t_
+ss_ s_
+nn_ n_
+
+billi bili
+billboard bilbord
+grill gril
+jogg dżog
+leasing liZing
+snowboa snołbo
+
+#nni ńni
+
+marzn marZn
+rozmarza rozmarZa
+marzl marZl
+marzł marZł
+mierzn mierZn
+_obmarza _obmarZa
+_zamarza _zamarZa
+obmierzł obmierZł
+mierzi mierŹi
+mierzł mierZł
+przymarza przymarZa
+
+
+piętna pietna
+
+odźwiern oćwiern
+
+xią ksią
+xię księ
+xi kSi
+x ks
+v w
+quasi kfaZi
+qu kf
+
+_zint _Zint
+_dezint _deZint
+_zinfo _Zinfo
+_dezinfo _deZinfo
+_zinst _Zinst
+_bezint _beZint
+szi sZi
+_rozisk roZisk
+_zidioc _Zidioc
+_zilustr _Zilustr
+_ziśc _Ziśc
+_ziść _Ziść
+_ziszcz _Ziszcz
+_nieziszcz _nieZiszcz
+_odziarn _odŹarn
+_zign _Zign
+
+nauci nałci
+naut nałt
+_nau _naU
+_zau _zaU
+eus eUs
+_niezau _niezaU
+auł aUł
+_przeu _przeU
+_pozau _pozaU
+nauk naUk
+nauc naUc
+_nieu _nieU
+neutr neUtr
+eusz eUsz
+leut leUt
+seul seUl
+kreuj kreUj
+eum eUm
+szua szUa
+
+
+
+#ua uła
+
+au ał
+eu eł
+
+yzmie yźmie
+izmie iźmie
+azmie aźmie
+
+_nadżer _nadrzer
+
+_odze _odZe
+_odziarn _odZiarn
+_odzip _odZip
+_odzn _odZn
+_odzw _odZw
+_nadzwy _nadZwy
+_odzy _odZy
+_odż _odŻ
+_nadzor _nadZor
+_nadzór _nadZór
+_podżeg _podŻeg
+_podżer _podŻer
+_podży _podŻy
+nadzm nadZm
+
+podziem podŹem
+_podzas _podZas
+_bezinw _beZinw
+_zind _Zind
+
+
+silikon Silikon
+sinus Sinus
+sims Sims
+sing Sing
+
+
+onż ąż
+onz ąz
+onsz ąsz
+ons ąs
+
+#enż ęż
+#ens ęs
+#ensz ęsz
+#enz ęz
+
+onch ąch
+omf ąf
+
+#reguły dla KK
+onw ąw
+onf ąf
+
+
+ęci eńci
+ędzi eńdzi
+ąci ońci
+ądzi ońdzi
+
+ęt ent
+ęd end
+ąt ont
+ąd ond
+ąg ong
+
+ęć eńć
+ędź eńdź
+ąć ońć
+ądź ońdź
+ęk enk
+
+ęc enc
+ędz endz
+ąc onc
+ądz ondz
+
+ndź ńdź
+ndzi ńdzi
+nci ńci
+nć ńć
+
+rzcz szcz
+czcz cZcz
+szcz sZcz
+scz sZcz
+zcz sZcz
+sZcz szcz
+zdż żdż
+
+#rzrz żż
+#zrz żż
+#zż żż
+
+#ssi śsi
+#zzi źzi
+#zś śś
+#sś śś
+#zsi śsi
+
+rzcie Żcie
+czci cZci
+szci sZci
+rzci sZci
+zci ści
+sci ści
+zć ść
+sć ść
+#zź źź
+#zzi źzi
+#zdź źdź
+#zdzi ździ
+
+
+
+frz fsz
+tw tf
+trz tsz
+pw pf
+prz psz
+hrz hsz
+hw hf
+szw szf
+sw sf
+cw cf
+św śf
+ćw ćf
+krz ksz
+kw kf
+czw czf
+
+
+tst ct
+
+ęb emb
+ęp emp
+ąb omb
+ąp omp
+
+ęł eł
+ął oł
+ęl el
+ąl ol
+
+ę_ e_
+
+sz_ sz
+cz_ cz
+
+dz_ c_
+dź_ ć_
+dż_ cZ_
+rz_ sZ_
+ż_ sZ_
+ź_ ś_
+
+d_ t_
+b_ p_
+g_ k_
+w_ f_
+z_ s_
+
+krw krf
+trw trf
+plw plf
+tlw tlf
+
+błk pk
+kłb gb
+
+#ntsz ncz
+
+#ntszż nczż
+
+U u
+
